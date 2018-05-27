@@ -25,6 +25,6 @@ ggg::::::ggg
 gggggg                         
 
 
-Riga is a parallel md5 password cracker for the Cell Broadband engine.
+Riga is a parallel md5 hash cracker for the Cell Broadband engine.
 
 (c) Dis 2010
